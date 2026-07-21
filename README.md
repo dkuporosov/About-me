@@ -105,58 +105,6 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <h2>🍽️ TD HOREKA</h2>
-      <p>HoReCa e-commerce platform with ordering, payment and delivery</p>
-      <a href="https://tdhoreka.vercel.app/">
-        <img
-          src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-          alt="Open TD HOREKA"
-        />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h2>📦 SNABOK</h2>
-      <p>E-commerce platform with products, payments, delivery and admin panel</p>
-      <a href="https://snabok.ru/">
-        <img
-          src="https://img.shields.io/badge/OPEN_PROJECT-059669?style=for-the-badge&logo=googlechrome&logoColor=white"
-          alt="Open SNABOK"
-        />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h2>🎬 MOVI BOBBY</h2>
-      <p>Portfolio website with projects and website development orders</p>
-      <a href="https://movibobby.ru/">
-        <img
-          src="https://img.shields.io/badge/OPEN_PROJECT-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white"
-          alt="Open MOVI BOBBY"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h2>🐔 KURIN SPB</h2>
-      <p>Modern responsive corporate website with admin panel and SEO</p>
-      <a href="https://kurinspb.vercel.app/">
-        <img
-          src="https://img.shields.io/badge/OPEN_PROJECT-EA580C?style=for-the-badge&logo=vercel&logoColor=white"
-          alt="Open KURIN SPB"
-        />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h2>🚢 MIRAJ</h2>
-      <p>Transport and logistics website with international cargo delivery</p>
-      <a href="https://miraj-ru.vercel.app/">
-        <img
-          src="https://img.shields.io/badge/OPEN_PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white"
-          alt="Open MIRAJ"
-        />
-      </a>
-    </td>
-    <td align="center" width="33%">
       <h2>🏗️ СВОБОДА</h2>
       <p>Construction materials supplier with delivery across Russia</p>
       <a href="https://svoboda.vercel.app/">
