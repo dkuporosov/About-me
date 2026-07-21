@@ -78,21 +78,74 @@
 
 <table>
 	<tr>
-		<td align="center" width="25%">
-			<h1>🎨</h1>
-			<b>FRONTEND</b>
+		<td align="center" width="33%">
+			<h2>🍽️ TD HOREKA</h2>
+			<p>HoReCa e-commerce platform with ordering, payment and delivery</p>
+			<a href="https://tdhoreka.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
 		</td>
-		<td align="center" width="25%">
-			<h1>⚙️</h1>
-			<b>BACKEND</b>
+		<td align="center" width="33%">
+			<h2>📦 SNABOK</h2>
+			<p>E-commerce platform with products, payments, delivery and admin panel</p>
+			<a href="https://snabok.ru/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+			</a>
 		</td>
-		<td align="center" width="25%">
-			<h1>📱</h1>
-			<b>UI/UX</b>
+		<td align="center" width="33%">
+			<h2>🎬 MOVI BOBBY</h2>
+			<p>Portfolio website with projects and website development orders</p>
+			<a href="https://movibobby.ru/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" />
+			</a>
 		</td>
-		<td align="center" width="25%">
-			<h1>🚀</h1>
-			<b>DEPLOYMENT</b>
+	</tr>
+
+	<tr>
+		<td align="center" width="33%">
+			<h2>🐔 KURIN SPB</h2>
+			<p>Modern responsive corporate website with admin panel and SEO</p>
+			<a href="https://kurinspb.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-EA580C?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
+		</td>
+		<td align="center" width="33%">
+			<h2>🚢 MIRAJ</h2>
+			<p>Transport and logistics website with international cargo delivery</p>
+			<a href="https://miraj-ru.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
+		</td>
+		<td align="center" width="33%">
+			<h2>🏗️ СВОБОДА</h2>
+			<p>Construction materials supplier with delivery across Russia</p>
+			<a href="https://svoboda.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-DC2626?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
+		</td>
+	</tr>
+
+	<tr>
+		<td align="center" width="33%">
+			<h2>🏢 БАЛТЛИДЕР</h2>
+			<p>Turnkey construction materials supply company website</p>
+			<a href="https://baltlider.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
+		</td>
+		<td align="center" width="33%">
+			<h2>🏗️ КЛИН ОПТ</h2>
+			<p>Construction materials and equipment supplier with international delivery</p>
+			<a href="https://klinopt.vercel.app/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+			</a>
+		</td>
+		<td align="center" width="33%">
+			<h2>👤 BOGACHELI</h2>
+			<p>Personal brand website designed for presenting services and expertise</p>
+			<a href="https://bogacheli.ru/">
+				<img src="https://img.shields.io/badge/OPEN_PROJECT-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+			</a>
 		</td>
 	</tr>
 </table>
